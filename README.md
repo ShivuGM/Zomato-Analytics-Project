@@ -65,4 +65,30 @@ This project focuses on analyzing customer behavior, restaurant distribution, pr
 ---
 
 ## 📁 Folder Structure
+Zomato-Analytics-Project/
+├── Excel/
+│   └── zomato_dashboard.xlsx
+├── SQL/
+│   └── zomato_queries.sql
+├── PowerBI/
+│   └── zomato_dashboard.pbix
+├── Tableau/
+│   └── zomato_dashboard.twbx
+├── Documentation/
+│   ├── Power-BI_Dashboard.png
+│   ├── Tableau_dashboard.png
+│   ├── Excel_dashboard.png
+└── README.md
+
+## 📌 Keywords
+
+`#PowerBI` `#Tableau` `#ExcelDashboard` `#ZomatoAnalytics` `#CustomerBehavior`  
+`#SQLAnalysis` `#RestaurantTrends` `#Forecasting` `#BIProject` `#DataVisualization`
+
+## 👨‍💻 Author
+
+**Shivu G M**  
+📧 sgm8762@gmail.com  
+📍 Bengaluru, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/shivu-g-m)
 
