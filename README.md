@@ -1,6 +1,5 @@
-# Zomato-Analytics-Project
-Customer behavior and restaurant performance analytics using Excel, SQL, Tableau &amp; Power BI
 # 🍽️ Zomato Analytics Project
+Customer behavior and restaurant performance analytics using Excel, SQL, Tableau &amp; Power BI
 
 This project focuses on analyzing customer behavior, restaurant distribution, pricing trends, and service availability using real-world Zomato data. The analytics were performed using **Excel**, **Power BI**, **Tableau**, and **SQL**, resulting in a comprehensive set of dashboards for strategic decision-making.
 
