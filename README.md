@@ -18,7 +18,7 @@ This project focuses on analyzing customer behavior, restaurant distribution, pr
 
 ### 📍 Power BI Dashboard
 
-![Power BI Dashboard](C:/Users/DELL/OneDrive/Pictures/Screenshots/Power-BI_Dashboard.png)
+![Power BI Dashboard](./Documentation/Power-BI_Dashboard.png)
 
 **Key Insights:**
 - **Top city**: New Delhi (5.5K restaurants)
@@ -32,7 +32,7 @@ This project focuses on analyzing customer behavior, restaurant distribution, pr
 
 ### 📍 Tableau Dashboard
 
-![Tableau Dashboard](C:/Users/DELL/OneDrive/Pictures/Screenshots/Tableau_Dashboard.png)
+![Tableau Dashboard](./Documentation/Tableau_Dashboard.png)
 
 **Highlights:**
 - Visual map shows **India dominates** with 6,652+ restaurants
@@ -44,7 +44,7 @@ This project focuses on analyzing customer behavior, restaurant distribution, pr
 
 ### 📍 Excel Dashboard
 
-![Excel Dashboard](C:/Users/DELL/OneDrive/Pictures/Screenshots/Excel_Dashboard.png)
+![Excel Dashboard](./Documentation/Excel_Dashboard.png)
 
 **Insights from Excel Dashboard:**
 - **Average rating**: 2.91 (Average)
